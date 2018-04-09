@@ -1,0 +1,80 @@
+0 ./files/uu_nomor_16_tahun_1992_karantina_hewan_ikan_dan_tumbuhan.pdf
+1 ./files/uu_nomor_27_tahun_2007_tentang_pengelolaan_wilayah_pesisir_dan_pulau-pulau_kecil.pdf
+2 ./files/uu_nomor_30_tahun_2014_tentang_Administrasi_Pemerintahan.pdf
+3 ./files/uu_nomor_30_tahun_2002_tentang_komisi_pemberantasan_tindak_pidana_korupsi.pdf
+4 ./files/uu_nomor_32_tahun_2009_tentang_perlindungan_dan_pengelolaan_lingkungan_hidup.pdf
+5 ./files/uu_nomor_43_tahun_2008_tentang_wilayah_daerah.pdf
+6 ./files/uu_nomor_45_tahun_2009_tentang_perubahan_atas_uu_no_31_tahun_2004.pdf
+7 ./files/INPRES NOMOR 4 TAHUN 2013.pdf
+8 ./files/KEPRES NOMOR 3 TAHUN 2007.pdf
+9 ./files/PERDA BADUNG NOMOR 18 TAHUN 2013.pdf
+10 ./files/PERDA BATAM NOMOR 9 TAHUN 2001.pdf
+11 ./files/PERDA DIY NOMOR 8 TAHUN 2015.pdf
+
+
+Similaritas pdf ke 0 dan pdf ke 1 = 0.24776849985603
+Similaritas pdf ke 0 dan pdf ke 2 = 0.084359492740305
+Similaritas pdf ke 0 dan pdf ke 3 = 0.16981132075472
+Similaritas pdf ke 0 dan pdf ke 4 = 0
+Similaritas pdf ke 0 dan pdf ke 5 = 0
+Similaritas pdf ke 0 dan pdf ke 6 = 0
+Similaritas pdf ke 0 dan pdf ke 7 = 0
+Similaritas pdf ke 0 dan pdf ke 8 = 0
+Similaritas pdf ke 0 dan pdf ke 9 = 0.15337849574431
+Similaritas pdf ke 0 dan pdf ke 10 = 0.12646536412078
+Similaritas pdf ke 0 dan pdf ke 11 = 0.14835259617043
+Similaritas pdf ke 1 dan pdf ke 2 = 0.1168983626815
+Similaritas pdf ke 1 dan pdf ke 3 = 0.23332865365717
+Similaritas pdf ke 1 dan pdf ke 4 = 0
+Similaritas pdf ke 1 dan pdf ke 5 = 0
+Similaritas pdf ke 1 dan pdf ke 6 = 0
+Similaritas pdf ke 1 dan pdf ke 7 = 0
+Similaritas pdf ke 1 dan pdf ke 8 = 0
+Similaritas pdf ke 1 dan pdf ke 9 = 0.20448478376935
+Similaritas pdf ke 1 dan pdf ke 10 = 0.19910918502468
+Similaritas pdf ke 1 dan pdf ke 11 = 0.20957766389822
+Similaritas pdf ke 2 dan pdf ke 3 = 0.49121212121212
+Similaritas pdf ke 2 dan pdf ke 4 = 0
+Similaritas pdf ke 2 dan pdf ke 5 = 0
+Similaritas pdf ke 2 dan pdf ke 6 = 0
+Similaritas pdf ke 2 dan pdf ke 7 = 0
+Similaritas pdf ke 2 dan pdf ke 8 = 0
+Similaritas pdf ke 2 dan pdf ke 9 = 0.41791144305148
+Similaritas pdf ke 2 dan pdf ke 10 = 0.40703460755485
+Similaritas pdf ke 2 dan pdf ke 11 = 0.3330007980846
+Similaritas pdf ke 3 dan pdf ke 4 = 0
+Similaritas pdf ke 3 dan pdf ke 5 = 0
+Similaritas pdf ke 3 dan pdf ke 6 = 0
+Similaritas pdf ke 3 dan pdf ke 7 = 0
+Similaritas pdf ke 3 dan pdf ke 8 = 0
+Similaritas pdf ke 3 dan pdf ke 9 = 0.22800808897877
+Similaritas pdf ke 3 dan pdf ke 10 = 0.15321271166783
+Similaritas pdf ke 3 dan pdf ke 11 = 0.16638767994643
+Similaritas pdf ke 4 dan pdf ke 5 = 9.1869545245751E-5
+Similaritas pdf ke 4 dan pdf ke 6 = 0.0025023459493275
+Similaritas pdf ke 4 dan pdf ke 7 = 0.0010379724937289
+Similaritas pdf ke 4 dan pdf ke 8 = 0.0012486992715921
+Similaritas pdf ke 4 dan pdf ke 9 = 0
+Similaritas pdf ke 4 dan pdf ke 10 = 0.00084441629723454
+Similaritas pdf ke 4 dan pdf ke 11 = 0
+Similaritas pdf ke 5 dan pdf ke 6 = 0
+Similaritas pdf ke 5 dan pdf ke 7 = 0
+Similaritas pdf ke 5 dan pdf ke 8 = 0
+Similaritas pdf ke 5 dan pdf ke 9 = 0
+Similaritas pdf ke 5 dan pdf ke 10 = 0
+Similaritas pdf ke 5 dan pdf ke 11 = 0
+Similaritas pdf ke 6 dan pdf ke 7 = 0.0027908599337171
+Similaritas pdf ke 6 dan pdf ke 8 = 0.0042305658381809
+Similaritas pdf ke 6 dan pdf ke 9 = 0
+Similaritas pdf ke 6 dan pdf ke 10 = 0.0019086245973995
+Similaritas pdf ke 6 dan pdf ke 11 = 0
+Similaritas pdf ke 7 dan pdf ke 8 = 0.00078277886497065
+Similaritas pdf ke 7 dan pdf ke 9 = 0
+Similaritas pdf ke 7 dan pdf ke 10 = 0.00027948574622694
+Similaritas pdf ke 7 dan pdf ke 11 = 0
+Similaritas pdf ke 8 dan pdf ke 9 = 0
+Similaritas pdf ke 8 dan pdf ke 10 = 0.00096061479346782
+Similaritas pdf ke 8 dan pdf ke 11 = 0
+Similaritas pdf ke 9 dan pdf ke 10 = 0.17504917111548
+Similaritas pdf ke 9 dan pdf ke 11 = 0.27539149888143
+Similaritas pdf ke 10 dan pdf ke 11 = 0.30511316010059
